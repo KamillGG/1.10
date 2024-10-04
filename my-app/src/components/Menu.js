@@ -10,6 +10,7 @@ export default function Menu(){
             <Link href='/strona4'>Strona4</Link>
             <Link href='/strona5'>Strona5</Link>
             <Link href='/strona6'>Strona6</Link>
+            <Link href='/strona7'>Strona7</Link>
         </div>
     )
 }
